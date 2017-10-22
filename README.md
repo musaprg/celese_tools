@@ -1,0 +1,2 @@
+# celese_tools
+指定暴力団CELESEに対抗するべく開発されたツール群
